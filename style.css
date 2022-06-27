@@ -11,7 +11,7 @@ body {
 header {
   height: 100vh;
   width: 100vw;
-  background-image: url(/bg2.1.jpg);
+  background-image: url(bg2.1.jpg);
   background-color: black;
   background-repeat: no-repeat;
   background-size: cover;
